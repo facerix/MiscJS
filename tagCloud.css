@@ -1,0 +1,12 @@
+/* tag cloud styles
+ (c) 2009, Ryan Corradini
+ for use with tagCloud.js */
+
+.tag-cloud {
+    text-align: center;
+    padding: 0;
+}
+.tag-cloud a {
+    text-transform: lowercase;
+    text-decoration: none;
+}
